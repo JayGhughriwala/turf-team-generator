@@ -1,0 +1,5 @@
+{
+  "name": "Turf Cricket Team Generator",
+  "description": "Randomly generate balanced cricket teams for your turf matches. Handles odd numbers with a common player.",
+  "requestFramePermissions": []
+}
