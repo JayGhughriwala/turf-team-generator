@@ -452,7 +452,7 @@ export default function App() {
 
       <footer className="mt-auto pt-16 text-white/30 text-[10px] text-center relative z-10 font-bold uppercase tracking-[0.3em]">
         <p>© {new Date().getFullYear()} Turf Cricket Squads</p>
-        <p className="mt-2">Built for the love of the game by <span className="text-white/60">Jay PG</span></p>
+        <p className="mt-2">Built for the love of the game by <span className="text-white/60">Jay P Ghughriwala</span></p>
       </footer>
     </div>
   );
